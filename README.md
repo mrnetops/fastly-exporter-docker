@@ -18,6 +18,7 @@ This repo contains a [Docker Compose][compose] setup, which boots up a full
 + [Fastly][fastly] dashboard stack.
 
 
+[fastly-dashboards]: https://github.com/mrnetops/fastly-dashboards
 [compose]: https://github.com/docker/compose
 [fastly]: https://www.fastly.com
 [prom]: https://prometheus.io

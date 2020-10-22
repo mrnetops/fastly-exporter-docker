@@ -14,8 +14,8 @@ Dockerizing [peterbourgon/fastly-exporter][fastly-exporter] as
 All singing, all dancing Fastly dashboards!
 
 This repo contains a [Docker Compose][compose] setup, which boots up a full
-[fastly-exporter][fastly-exporter] + [Prometheus][prom] + [Grafana][grafana] 
-+ [Fastly][fastly] dashboard stack.
+[fastly-exporter][fastly-exporter] + [Prometheus][prom] + [Grafana][grafana] + 
+[Fastly][fastly] dashboard stack.
 
 
 [fastly-dashboards]: https://github.com/mrnetops/fastly-dashboards

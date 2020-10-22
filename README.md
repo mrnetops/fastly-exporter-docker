@@ -7,9 +7,7 @@ Dockerizing [peterbourgon/fastly-exporter][fastly-exporter] as
 [container]: https://hub.docker.com/r/mrnetops/fastly-exporter
 [hub]: https://hub.docker.com
 
-# Also see 
-
-## [mrnetops/fastly-dashboards][fastly-dashboards]
+# Also see [mrnetops/fastly-dashboards][fastly-dashboards]
 
 All singing, all dancing Fastly dashboards!
 

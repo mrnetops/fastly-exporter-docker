@@ -57,4 +57,4 @@ echo "
 #
 "
 
-docker push ${IMAGE}
+docker push --all-tags ${IMAGE}
